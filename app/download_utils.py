@@ -1,5 +1,5 @@
-import os
 from weasyprint import HTML
+import os
 
 def convert_html_to_pdf():
     app_directory = os.path.dirname(os.path.abspath(__file__))

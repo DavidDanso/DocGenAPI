@@ -1,6 +1,7 @@
 # Import required modules and components
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from .config import app_settings
 from .preview import router as preview_router
 from .download import router as download_router
 
