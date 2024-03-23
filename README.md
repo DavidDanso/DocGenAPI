@@ -49,7 +49,7 @@ This repository provides a simple yet powerful document template generation and 
 4. Install the required dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirements.txt --upgrade
     ```
 
 2. Run the FastAPI application:
