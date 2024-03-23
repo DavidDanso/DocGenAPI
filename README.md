@@ -1,4 +1,4 @@
-# Document Template with FastAPI and Pyhanko Digital Signature
+# Doc Template with FastAPI and Pyhanko Digital Signature
 
 This repository provides a simple yet powerful document template generation and digital signing tool using FastAPI and Python. With this application, you can easily generate document templates in HTML format, convert them to PDF, preview them, and digitally sign the PDF documents.
 
